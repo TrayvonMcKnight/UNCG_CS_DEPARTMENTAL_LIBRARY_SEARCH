@@ -1,0 +1,4 @@
+﻿In the original database, there were multiple dates for some entries. To alleviate the problems this would cause, we used the most recent date from these entries.In NetBeans the whole project runs perfectly. In prdile, the project compiles, but does not bring up the GUI due to some mismatches in NetBeans Version. In one version of Linux (BackBox) the whole project runs as planned. The database is hosted on a local server in NetBeans. All necessary files were sent however must create a database named db and a table called CSLib from the grabfile. In out project, searching is case sensitive.
+
+
+http://prezi.com/maxkbbopawpi/?utm_campaign=share&utm_medium=copy
